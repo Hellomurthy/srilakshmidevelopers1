@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
        
-        Welcome to Sri Laskhmi Developers
+        Welcome to Sri Lakshmi Developers
 
         Site Under Construction...
       </header>
