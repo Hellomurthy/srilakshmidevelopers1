@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/srilakshmidevelopers1/static/css/main.073c9b0a.css",
-    "main.js": "/srilakshmidevelopers1/static/js/main.5f702d11.js",
+    "main.js": "/srilakshmidevelopers1/static/js/main.1a7b23c7.js",
     "static/js/787.05d835eb.chunk.js": "/srilakshmidevelopers1/static/js/787.05d835eb.chunk.js",
     "static/media/logo.svg": "/srilakshmidevelopers1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/srilakshmidevelopers1/index.html",
     "main.073c9b0a.css.map": "/srilakshmidevelopers1/static/css/main.073c9b0a.css.map",
-    "main.5f702d11.js.map": "/srilakshmidevelopers1/static/js/main.5f702d11.js.map",
+    "main.1a7b23c7.js.map": "/srilakshmidevelopers1/static/js/main.1a7b23c7.js.map",
     "787.05d835eb.chunk.js.map": "/srilakshmidevelopers1/static/js/787.05d835eb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5f702d11.js"
+    "static/js/main.1a7b23c7.js"
   ]
 }
