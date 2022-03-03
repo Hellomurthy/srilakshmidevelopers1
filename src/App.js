@@ -8,7 +8,7 @@ function App() {
        
         Welcome to Sri Lakshmi Developers
       <br></ br>
-      building our web site, just like how passionate to build your dream home...
+      building our web site, just like how passionate we are to build your dream home...
       </header>
     </div>
   );
