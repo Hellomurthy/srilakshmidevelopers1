@@ -18,7 +18,7 @@ function Navbar() {
   };
   return (
     <nav className="nav">
-        <img src={logo} />  
+        <img src={logo}  style={{height: '8vh'}} />  
       <a href="./" className="nav__brand">          
         Sri Lakshmi Developers
       </a>
