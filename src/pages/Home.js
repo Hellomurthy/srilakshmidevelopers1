@@ -5,7 +5,7 @@ import "../styles/Home.css";
 
 function Home(){
     return (
-        <div className="home" style={{backgroundImage: `url(${BannerImage})`}}>Home</div>
+        <div className="home" style={{backgroundImage: `url(${BannerImage})`}}></div>
     )
 }
 export default Home;

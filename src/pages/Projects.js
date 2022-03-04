@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 import {ProjectsUC} from '../helpers/ProjectsUC';
+import {ProjectsCompleted} from '../helpers/ProjectsCompleted';
 import Project from '../Components/Project'
 import "../styles/projects.css";
 
@@ -24,9 +25,9 @@ function Projects(){
             </div>
         </div>
         <div className="project">
-        <h1 className="projectTitle">Projects in progress...</h1>
+        <h1 className="projectTitle">Projects Completed</h1>
         <div className="projectList">
-            {ProjectsUC.map((project, key) => {
+            {ProjectsCompleted.map((project, key) => {
                 return(
                     <Project
                         key={key}

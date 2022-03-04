@@ -25,15 +25,15 @@ function Navbar() {
       <ul className={active}>
         <li className="nav__item">
           <Link to="/">Home</Link>
-        </li>
-        <li className="nav__item">
-            <Link to="/About">About</Link>
-        </li>
+        </li>        
         <li className="nav__item">
             <Link to="/Projects">Projects</Link>
         </li>
         <li className="nav__item">
             <Link to="/Services">Services</Link>         
+        </li>
+        <li className="nav__item">
+            <Link to="/About">About</Link>
         </li>
         <li className="nav__item">
             <Link to="/Contact">Contact</Link> 
